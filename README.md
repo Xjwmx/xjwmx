@@ -7,12 +7,12 @@ Ecommerce Customer Experience Manager specializing in Shopify Theme Development 
 - Python
 - CSS, SCSS, TAILWIND
 - GraphQL
-- JSON
 - Astro.js
+- Next.js
+- Payload
 
 ### Backoffice Automations Stack
 - N8N
-- Langchain & Agentic AI
-- Open AI & Ollama
-- Postgress & Redis
-
+- Agentic AI
+- Prompt Engineering
+- Postgres
