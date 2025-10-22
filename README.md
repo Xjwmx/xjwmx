@@ -4,15 +4,13 @@ Ecommerce Customer Experience Manager specializing in Shopify Theme Development 
 ### Languages:
 - Shopify Liquid
 - Javascript & Typescript
-- Python
+- Basic Python
 - CSS, SCSS, TAILWIND
 - GraphQL
 - Astro.js
 - Next.js
-- Payload
 
 ### Backoffice Automations Stack
 - N8N
-- Agentic AI
-- Prompt Engineering
-- Postgres
+- AI Prompt Engineering & Workflows
+- PostgreSQL
